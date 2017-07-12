@@ -10,7 +10,7 @@
     <h1>Account Sign Up</h1>
     <form action="display_results.php" method="post">
 
-    <fieldset> 
+    <fieldset>
     <legend>Account Information</legend>
         <label>E-Mail:</label>
         <input type="text" name="email" value="" class="textbox">
@@ -37,7 +37,7 @@
 
         <p>Would you like to receive announcements about new products
            and special offers?</p>
-        <input type="checkbox" name="wants_updates">YES, I'd like to receive
+        <input type="checkbox" name="wants_updates">YES, I would like to receive
         information about new products and special offers.<br>
 
         <p>Contact via:</p>
@@ -54,7 +54,7 @@
     <input type="submit" value="Submit">
     <br>
 
-    </form>
+    </form>    
     </main>
 </body>
 </html>
